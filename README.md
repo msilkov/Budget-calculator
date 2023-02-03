@@ -9,4 +9,4 @@
 2. MVC
 
 ## Демо:
-1. Перейти по ссылке ["Калькулятор бюджета"](msilkov.github.io/Budget-calculator/)
+1. Перейти по ссылке ["Калькулятор бюджета"](https://msilkov.github.io/Budget-calculator/)
